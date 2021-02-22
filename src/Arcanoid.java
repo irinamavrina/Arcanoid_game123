@@ -25,6 +25,7 @@ public class Arcanoid extends JPanel {
             }
         });
         timer.start();
+        //fdsfghjad
 
         frame.addKeyListener(new KeyAdapter() {
             @Override
